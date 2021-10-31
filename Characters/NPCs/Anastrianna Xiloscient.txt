@@ -1,0 +1,62 @@
+Anastrianna Xiloscient
+-Race: Elf
+-Gender: Female
+-Class: Cleric
+-Background: Entertainer
+-Description: 
+--Appearance: Missing fingers
+--High Ability: Charisma-persuasive, forceful, born leader
+--Low Ability: Constitution-sickly, pale
+--Talent: Great with animals
+--Mannerism: Stares into the distance
+--Interaction Trait: Blustering
+--Values: Fairness (Lawful), Protective of colleagues or compatriots
+--Flaw or Secret: Prone to rage
+
+Race: Elf
+-Subraces and Variants: 
+--Subrace: Wood Elf
+-Physical Characteristics: 
+--Age: 201 years
+--Height: 5'9"
+--Weight: 130 lbs.
+--Eyes: Brown
+--Skin: Greenish-copper
+--Hair: Copper
+
+Class: Cleric
+-Divine Domain: Forge Domain
+-Personality: 
+--Keepsake: A braid of hair woven from the tail of a unicorn
+--Secret: In times of despair, you feel that you are but a plaything of the gods, and you resent their remoteness.
+--Became a cleric because: A supernatural being in service to the gods called me to become a divine agent in the world.
+
+Background: Entertainer
+-Trait: I love a good insult, even one directed at me.
+-Ideal: Creativity. The world is in need of new ideas and bold action. (Chaotic)
+-Bond: I want to be famous, whatever it takes.
+-Flaw: I'm a sucker for a pretty face.
+-Routine: Singer
+-Became an entertainer because: I earned coin by performing on street corners and eventually made a name for myself.
+
+Life
+-Alignment: Lawful Good
+-Origin: 
+--Birthplace: Brothel, tavern, or inn
+--Family Lifestyle: Squalid
+--Childhood Home: On the streets
+--Childhood Memories: I had a few close friends and lived an ordinary childhood.
+--Siblings: 
+---Tiaathque: 
+----Gender: Female
+----Race: Elf
+----Alignment: Neutral Good
+----Occupation: Laborer
+----Status: Alive and well
+----Relationship: Friendly
+----Birth Order: Older
+-Life Events: 
+--Job: You spent time working in a job related to your background. Start the game with an extra 2d6 gp.
+--Marriage: You fell in love or got married to a(n) human artisan or guild member.
+--Adventure: You were terribly frightened by something you encountered and ran away, abandoning your companions to their fate.
+-Trinket: An iron holy symbol devoted to an unknown god

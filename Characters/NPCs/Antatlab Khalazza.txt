@@ -1,0 +1,71 @@
+Antatlab Khalazza
+-Race: Elf
+-Gender: Male
+-Class: Fighter
+-Background: Far Traveler
+-Description: 
+--Appearance: Piercings
+--High Ability: Intelligence-studious, learned, inquisitive
+--Low Ability: Constitution-sickly, pale
+--Talent: Drinks everyone under the table
+--Mannerism: Bites fingernails
+--Interaction Trait: Honest
+--Values: Self-sacrifice (Good), Protective of colleagues or compatriots
+--Flaw or Secret: Envies another creature's possessions or station
+
+Race: Elf
+-Subraces and Variants: 
+--Subrace: Drow
+-Physical Characteristics: 
+--Age: 106 years
+--Height: 5'0"
+--Weight: 117 lbs.
+--Eyes: Pale Red
+--Hair: White
+
+Class: Fighter
+-Martial Archetype: Samurai
+-Personality: 
+--Heraldic Sign: A phoenix in a ring of fire, an expression of an indomitable spirit
+--Instructor: Tribal Warrior. Your instructor grew up in a tribe, where fighting for one's life was practically an everyday occurrence.
+--Signature Style: Cunning. You dart in to attack at just the right moment and use small-scale tactics to tilt the odds in your favor.
+--Became a fighter because: Horrible monsters descended on my community, killing someone I loved. I took up arms to destroy those creatures and others of a similar nature.
+
+Background: Far Traveler
+-Trait: I begin or end my day with small traditional rituals that are unfamiliar to those around me.
+-Ideal: Reserved. As someone new to these strange lands, I am cautious and respectful in my dealings. (Lawful)
+-Bond: My freedom is my most precious possession. I'll never let anyone take it from me again.
+-Flaw: I have a weakness for the new intoxicants and other pleasures of this land.
+-Why Are You Here?: Fugitive
+-Where are you from?: Kara-Tur
+
+Life
+-Alignment: Lawful Neutral
+-Origin: 
+--Birthplace: Forest
+--Absent Parent(s): Your parent(s) abandoned you
+--Family Lifestyle: Comfortable
+--Childhood Home: Small house
+--Childhood Memories: I had several friends, and my childhood was generally a happy one.
+--Siblings: 
+---Shurdriira: 
+----Gender: Female
+----Race: Elf
+----Alignment: Neutral
+----Occupation: Soldier
+----Status: Alive, but doing poorly due to injury, financial trouble, or relationship difficulties
+----Relationship: Indifferent
+----Birth Order: Younger
+---Tsabrak: 
+----Gender: Male
+----Race: Elf
+----Alignment: Neutral
+----Occupation: Aristocrat
+----Status: Alive and well
+----Relationship: Friendly
+----Birth Order: Older
+-Life Events: 
+--Marriage: You fell in love or got married to a(n) elf academic.
+--Boon: You once performed a service for a local temple. The next time you visit the temple, you can receive healing up to your hit point maximum.
+--Enemy: You made an enemy of a(n) kobold rogue. Roll a d6. An odd number indicates you are to blame for the rift, and an even number indicates you are blameless.
+-Trinket: A diary with seven missing pages

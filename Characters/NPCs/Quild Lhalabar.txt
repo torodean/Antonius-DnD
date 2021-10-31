@@ -1,0 +1,67 @@
+Quild Lhalabar
+
+    Race: Elf
+    Gender: Male
+    Class: Barbarian
+    Background: Gladiator
+    Occupation: Merchant
+    Description:
+        Appearance: Nervous eye twitch
+        High Ability: Intelligence-studious, learned, inquisitive
+        Low Ability: Wisdom-oblivious, absentminded
+        Talent: Great at impersonations
+        Mannerism: Chews something
+        Interaction Trait: Quiet
+        Values: Discovery (Any), Captivated by a romantic interest
+        Flaw or Secret: Has a powerful enemy
+
+Class: Barbarian
+
+    Primal Path: Path of the Berserker
+    Personality:
+        Personal Totem: A small leather pouch holding three stones that represent your ancestors
+        Tattoo: The antlers of an elk are inked across your back.
+        Became a barbarian because: I went on a spiritual journey to find myself and instead found a spirit animal to guide, protect, and inspire me.
+
+Race: Elf
+
+    Subraces and Variants:
+        Subrace: Drow
+    Physical Characteristics:
+        Age: 446 years
+        Height: 5'0"
+        Weight: 89 lbs.
+        Eyes: Pale Silver
+        Hair: Pale Yellow
+
+Background: Gladiator
+
+Life:
+
+    Trait: Nobody stays angry at me or around me for long, since I can defuse any amount of tension.
+    Ideal: Tradition. The stories, legends, and songs of the past must never be forgotten, for they teach us who we are. (Lawful)
+    Bond: I want to be famous, whatever it takes.
+    Flaw: I'm a sucker for a pretty face.
+	
+	    Alignment: Chaotic Evil
+    Origin:
+        Birthplace: On the Astral Plane or the Ethereal Plane
+        Absent Parent(s): Your parent(s) died
+        Family Lifestyle: Comfortable
+        Childhood Home: No permanent residence, you moved around a lot
+        Childhood Memories: I had a few close friends and lived an ordinary childhood.
+        Siblings:
+            Filraen:
+                Gender: Male
+                Race: Elf
+                Alignment: Neutral Good
+                Occupation: Hunter or trapper
+                Status: Alive and well
+                Relationship: Friendly
+                Birth Order: Younger
+    Life Events:
+        Supernatural Event: You witnessed a minor miracle.
+        Enemy: You made an enemy of a(n) halfling ranger. Roll a d6. An odd number indicates you are to blame for the rift, and an even number indicates you are blameless.
+        War: You survived a battle, but you suffer from terrible nightmares in which you relive the experience.
+        Friend: You made a friend of a(n) halfling cleric.
+    Trinket: A candle that can't be lit

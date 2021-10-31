@@ -1,0 +1,50 @@
+Ielenia Xiloscient
+-Race: Elf
+-Gender: Female
+-Class: Bard
+-Background: Investigator
+-Description: 
+--Appearance: Ragged, dirty clothes
+--High Ability: Charisma-persuasive, forceful, born leader
+--Low Ability: Wisdom-oblivious, absentminded
+--Talent: Great with animals
+--Mannerism: Speaks in rhyme or some other peculiar way
+--Interaction Trait: Suspicious
+--Values: Charity (Good), Captivated by a romantic interest
+--Flaw or Secret: Forbidden love or susceptibility to romance
+
+Race: Elf
+-Subraces and Variants: 
+--Subrace: Wood Elf
+-Physical Characteristics: 
+--Age: 427 years
+--Height: 5'10"
+--Weight: 116 lbs.
+--Eyes: Brown
+--Skin: Dark Copper
+--Hair: Blond
+
+Class: Bard
+-Bard College: College of Valor
+-Personality: 
+--Defining Works: "A Hoop, Two Pigeons, and a Hell Hound," a subtle parody of an incompetent noble
+--Became a bard because: I joined a loose society of scholars and orators to learn new techniques of performance and magic.
+
+Background: Investigator
+-Trait: I've lost too many friends, and I'm slow to make new ones.
+-Ideal: Live and Let Live. Ideals aren't worth killing over or going to war for. (Neutral)
+-Bond: Those who fight beside me are those worth dying for.
+-Flaw: I'd rather eat my armor than admit when I'm wrong.
+
+Life
+-Alignment: Neutral Evil
+-Origin: 
+--Birthplace: On an Outer Plane of your choice
+--Family Lifestyle: Modest
+--Childhood Home: Encampment of village in the wilderness
+--Childhood Memories: Others saw me as being different or strange, and so I had few companions
+-Life Events: 
+--Enemy: You made an enemy of a(n) human barbarian. Roll a d6. An odd number indicates you are to blame for the rift, and an even number indicates you are blameless.
+--Friend: You made a friend of a(n) human paladin.
+--Crime: Counterfeiting. You committed the crime or helped do so, but nonetheless the authorities found you not guilty.
+-Trinket: A purple handkerchief embroidered with the name of a powerful archmage

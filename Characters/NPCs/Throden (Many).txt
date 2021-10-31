@@ -1,0 +1,72 @@
+Throden (Many)
+
+    Race: Lizardfolk
+    Gender: Nonbinary or Unknown
+    Class: Bard
+    Background: Guild Merchant
+    Occupation: Artisan or guild member
+    Description:
+        Appearance: Distinctive nose
+        High Ability: Charisma-persuasive, forceful, born leader
+        Low Ability: Dexterity-clumsy, fumbling
+        Talent: Expert dart thrower and rock skipper
+        Mannerism: Speaks in rhyme or some other peculiar way
+        Interaction Trait: Blustering
+        Values: Beauty (Good), Dedicated to fulfilling a personal life goal
+        Flaw or Secret: Enjoys decadent pleasures
+
+Class: Bard
+
+    Bard College: College of Creation
+    Personality:
+        Became a bard because: I awakened my latent bardic abilities through trial and error.
+
+Race: Lizardfolk
+
+    Physical Characteristics:
+        Age: 19 years
+        Height: 6'3"
+        Weight: 228 lbs.
+        Scales: Green
+    Lizardfolk Quirk: You sleep best while mostly submerged in water.
+
+Background: Guild Merchant
+
+    Trait: I'm full of witty aphorisms and have a proverb for every occasion.
+    Ideal: Aspiration. I work hard to be the best there is at my craft. (Any)
+    Bond: I will get revenge on the evil forces that destroyed my place of business and ruined my livelihood.
+    Flaw: I'm quick to assume that someone is trying to cheat me.
+	
+Life:
+
+    Alignment: Chaotic Neutral
+    Origin:
+        Birthplace: Barn, shed, or other outbuilding
+        Absent Parent(s): Your parent(s) abandoned you
+        Family Lifestyle: Poor
+        Childhood Home: No permanent residence, you moved around a lot
+        Childhood Memories: Others saw me as being different or strange, and so I had few companions
+        Siblings:
+            Aryte:
+                Gender: Male
+                Race: Lizardfolk
+                Alignment: Neutral Evil
+                Occupation: Laborer
+                Status: Alive and quite successful
+                Relationship: Friendly
+                Birth Order: Older
+            Vutha:
+                Gender: Female
+                Race: Lizardfolk
+                Alignment: Neutral Good
+                Occupation: Farmer or herder
+                Status: Alive and well
+                Relationship: Friendly
+                Birth Order: Younger
+    Life Events:
+        Supernatural Event: You witnessed a minor miracle.
+        Boon: You once performed a service for a local temple. The next time you visit the temple, you can receive healing up to your hit point maximum.
+        Marriage: You fell in love or got married to a(n) lizardfolk academic.
+        Friend: You made a friend of a(n) tiefling ranger.
+        Job: You spent time working in a job related to your background. Start the game with an extra 2d6 gp.
+    Trinket: A black pirate flag adorned with a dragon's skull and crossbones

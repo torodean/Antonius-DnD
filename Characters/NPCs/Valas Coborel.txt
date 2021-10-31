@@ -1,0 +1,69 @@
+Valas Coborel
+-Race: Elf
+-Gender: Male
+-Class: Sorcerer
+-Background: Investigator
+-Description: 
+--Appearance: Flamboyant or outlandish clothes
+--High Ability: Charisma-persuasive, forceful, born leader
+--Low Ability: Dexterity-clumsy, fumbling
+--Talent: Paints beautifully
+--Mannerism: Fidgets
+--Interaction Trait: Honest
+--Values: Community (Lawful), Drawn to a special place
+--Flaw or Secret: Possession of forbidden lore
+
+Race: Elf
+-Subraces and Variants: 
+--Subrace: Drow
+-Physical Characteristics: 
+--Age: 422 years
+--Height: 5'1"
+--Weight: 115 lbs.
+--Eyes: Pale Blue
+--Hair: White
+
+Class: Sorcerer
+-Sorcerous Origin: Wild Magic
+-Personality: 
+--Arcane Origins: Your power arises from your family's bloodline. You are related to some powerful creature, or you inherited a blessing or a curse.
+--Reaction: Your powers caused destruction and even a death when they became evident, and you were treated as a criminal.
+--Supernatural Mark: Your eyes are an unusual color, such as red.
+--Became a sorcerer because: When a monster threatened one of my friends, I became filled with anxiety. I lashed out instinctively and blasted the wretched thing with a force that came from within me.
+
+Background: Investigator
+-Trait: I'm full of inspiring and cautionary tales from my military experience relevant to almost every combat situation.
+-Ideal: Nation. My city, nation, or people are all that matter. (Any)
+-Bond: Someone saved my life on the battlefield. To this day, I will never leave a friend behind.
+-Flaw: The monstrous enemy we faced in battle still leaves me quivering with fear.
+
+Life
+-Alignment: Neutral Good
+-Origin: 
+--Birthplace: Sewer or rubbish heap
+--Family Lifestyle: Modest
+--Childhood Home: Rundown shack
+--Childhood Memories: I spent most of my childhood alone, with no close friends
+--Siblings: 
+---Ulviirala: 
+----Gender: Female
+----Race: Elf
+----Alignment: Neutral
+----Occupation: Hunter or trapper
+----Status: Alive and well
+----Relationship: Friendly
+----Birth Order: Younger
+---Gelroos: 
+----Gender: Male
+----Race: Elf
+----Alignment: Neutral Evil
+----Occupation: Politician or bureaucrat
+----Status: Alive and well
+----Relationship: Friendly
+----Birth Order: Younger
+-Life Events: 
+--Someone Important: You met an important half-elf, who is friendly towards you.
+--Boon: A relative bequeathed you a simple weapon of your choice.
+--Job: You spent time working in a job related to your background. Start the game with an extra 2d6 gp.
+--Tragedy: A family member or a close friend died. Roll on the Cause of Death supplemental table to find out how.
+-Trinket: A tiny silver bell without a clapper

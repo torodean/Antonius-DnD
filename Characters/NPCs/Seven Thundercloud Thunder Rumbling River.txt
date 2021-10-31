@@ -1,0 +1,60 @@
+Seven Thundercloud "Thunder" Rumbling River
+
+    Race: Tabaxi
+    Gender: Male
+    Class: Monk
+    Background: Inheritor
+    Occupation: Merchant
+    Description:
+        Appearance: Unusual hair color
+        High Ability: Strength-powerful, brawny, strong as an ox
+        Low Ability: Dexterity-clumsy, fumbling
+        Talent: Speaks several languages fluently
+        Mannerism: Fidgets
+        Interaction Trait: Irritable
+        Values: Live and let live (Neutral), Drawn to a special place
+        Flaw or Secret: Specific phobia
+		
+Class: Monk
+
+    Monastic Tradition: Way of the Open Hand
+    Personality:
+        Monastery: Your monastery was carved from an iceberg in the frozen reaches of the world.
+        Monastic Icons: Monkey. Quick reflexes and the ability to travel through the treetops are two of the reasons why your order admires the monkey.
+        Master: Your master seemed goodhearted while tutoring you, but betrayed your monastery in the end.
+        Became a monk because: I stumbled into a portal to the Shadowfell and took refuge in a strange monastery, where I learned how to defend myself against the forces of darkness.
+
+Race: Tabaxi
+
+    Physical Characteristics:
+        Age: 28 years
+        Height: 5'8"
+        Weight: 130 lbs.
+        Eyes: Yellow
+        Hair: Orange
+    Tabaxi Obsession: A god or planar entity
+    Tabaxi Quirk: Your tail always betrays your inner thoughts.
+
+Background: Inheritor
+
+    Trait: I judge people by their actions, not their words.
+    Ideal: Freedom. Tyrants must not be allowed to oppress the people. (Chaotic)
+    Bond: I worked the land, I love the land, and I will protect the land.
+    Flaw: The tyrant who rules my land will stop at nothing to see me killed.
+	
+Life:
+
+    Alignment: Chaotic Good
+    Origin:
+        Birthplace: In a prison or in the headquarters of a secret organization
+        Absent Parent(s): Your parent(s) was/were imprisoned, enslaved, or otherwise taken away
+        Family Lifestyle: Comfortable
+        Childhood Home: No permanent residence, you moved around a lot
+        Childhood Memories: I had a few close friends and lived an ordinary childhood.
+    Life Events:
+        Boon: You saved the life of a commoner, who now owes you a life debt. This individual accompanies you on your travels and performs mundane tasks for you, but will leave if neglected, abused, or imperiled. Determine details about this character by using the supplemental tables and working with your DM.
+        Job: You spent time working in a job related to your background. Start the game with an extra 2d6 gp.
+        Marriage: You fell in love or got married to a(n) tabaxi laborer.
+        Tragedy: War ravaged your home community, reducing everything to rubble and ruin. In the aftermath, you either helped your town rebuild or moved somewhere else.
+        Arcane Matter: You were charmed or frightened by a spell.
+    Trinket: A small cloth doll skewered with needles
